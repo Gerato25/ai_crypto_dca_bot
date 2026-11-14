@@ -277,9 +277,4 @@ Apache version 2 License - see LICENSE file for details
 
 ` DECLASSIFIED `
 
-For support and questions:
 
-- Create an issue in the repository
-
-- Contact via Telegram: https://t.me/neardcabot
-- Email: support@nearhub.online
